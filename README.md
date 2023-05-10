@@ -1,6 +1,8 @@
 # Atypeical
 A small typing test built for typists of all types. I really liked the Swift Charts I saw at WWDC22 + wanted to try it out.
 
+[I've been accepted!](https://twitter.com/iseejays/status/1656151021092052992?s=61&t=rJvF_iN5IoW-j0i0rdqIkw)
+
 ## Features
 * Beginner, Standard, and Coding modes.
   * Beginner has only nouns with no punctuation or capitalization.
@@ -12,7 +14,6 @@ A small typing test built for typists of all types. I really liked the Swift Cha
 
 ## Screenies
 <img width="1024" alt="image" src="https://github.com/ChrisOh431/Atypeical/assets/39662993/8a652ca7-82aa-4ac2-9e09-dbce7a40d581">
-
 
 <img width="1024" alt="image" src="https://github.com/ChrisOh431/Atypeical/assets/39662993/1183eac7-ed8e-4ea7-8bc1-05e44405112e">
 
